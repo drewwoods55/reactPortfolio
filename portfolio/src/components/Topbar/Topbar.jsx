@@ -1,6 +1,6 @@
 import React from 'react'
 import "./topbar.scss"
-import PersonIcon from '@mui/icons-material/Person';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import MailIcon from '@mui/icons-material/Mail';
 
 
@@ -13,8 +13,8 @@ function Topbar({ menuOpen, setMenuOpen }) {
                         portfolio.
                     </a>
                     <div className="itemContainer">
-                        <PersonIcon className="icon" />
-                        <span>+44 924 12 74</span>
+                        <LinkedInIcon className="icon" />
+                        <span>www.linkedin.com/in/drewwwoods</span>
                     </div>
                     <div className="itemContainer">
                         <MailIcon className="icon" />
