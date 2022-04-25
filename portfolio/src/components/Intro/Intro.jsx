@@ -19,7 +19,7 @@ function Intro() {
                     <h3>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi voluptatibus accusamus unde at delectus odio, dolore eligendi nulla blanditiis pariatur ratione ea ex sed, hic reiciendis nihil non facilis modi!
                     </h3>
-                    <a href="#portfolio">
+                    <a href="#a">
                         <img src="./assets/down.png" alt="" />
                     </a>
                 </div>
