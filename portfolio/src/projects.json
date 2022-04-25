@@ -1,17 +1,17 @@
 [{
     "id": 1,
-    "name": "CitiFinder",
-    "skills": "Javascript",
+    "name": "R2H: Gateway Proj",
+    "skills": "HTML |  CSS",
     "image": "./assets/portfolio1.png",
-    "keypoint": "Event Handlers",
-    "github": "https://github.com/drewwoods55/cityFinder",
-    "link": "https://drewwoods55.github.io/cityFinder/"
+    "keypoint": "HTML | CSS",
+    "github": "https://github.com/drewwoods55/GatewayProject",
+    "link": "https://drewwoods55.github.io/GatewayProject/"
 },
 {
     "id": 2,
     "name": "CitiFinder",
     "skills": "Javascript",
-    "image": "./assets/portfolio1.png",
+    "image": "./assets/portfolio2.png",
     "keypoint": "Event Handlers",
     "github": "https://github.com/drewwoods55/cityFinder",
     "link": "https://drewwoods55.github.io/cityFinder/"
@@ -19,41 +19,41 @@
 
 {
     "id": 3,
-    "name": "CitiFinder",
-    "skills": "Javascript",
-    "image": "./assets/portfolio1.png",
+    "name": "Instagram Redesign",
+    "skills": "Full Stack",
+    "image": "./assets/portfolio3.png",
     "keypoint": "Event Handlers",
-    "github": "https://github.com/drewwoods55/cityFinder",
-    "link": "https://drewwoods55.github.io/cityFinder/"
+    "github": "https://github.com/winston1337/Instagram-Redesign",
+    "link": "https://instagram-redesign-murex.vercel.app/home"
 },
 
 {
     "id": 4,
-    "name": "CitiFinder",
-    "skills": "Javascript",
-    "image": "./assets/portfolio1.png",
-    "keypoint": "Event Handlers",
-    "github": "https://github.com/drewwoods55/cityFinder",
-    "link": "https://drewwoods55.github.io/cityFinder/"
+    "name": "Drew's Closet",
+    "skills": "React | Javascript | MySQL",
+    "image": "./assets/portfolio4.png",
+    "keypoint": "Full Stack",
+    "github": "https://github.com/drewwoods55/React_Ecommerce",
+    "link": "https://drewscloset.netlify.app/Home"
 },
 
 {
     "id": 5,
-    "name": "CitiFinder",
-    "skills": "Javascript",
-    "image": "./assets/portfolio1.png",
-    "keypoint": "Event Handlers",
-    "github": "https://github.com/drewwoods55/cityFinder",
-    "link": "https://drewwoods55.github.io/cityFinder/"
+    "name": "Tik-Tac-Toe",
+    "skills": "React",
+    "image": "./assets/portfolio5.png",
+    "keypoint": "Javascript | React",
+    "github": "https://github.com/drewwoods55/tic-tac-toe-hooks",
+    "link": "https://react-tictaktoe.netlify.app/"
 },
 {
     "id": 6,
-    "name": "CitiFinder",
-    "skills": "Javascript",
-    "image": "./assets/portfolio1.png",
-    "keypoint": "Event Handlers",
-    "github": "https://github.com/drewwoods55/cityFinder",
-    "link": "https://drewwoods55.github.io/cityFinder/"
+    "name": "Ordermob",
+    "skills": "Node.js | JSON Ajax",
+    "image": "./assets/portfolio6.png",
+    "keypoint": "Third Party API",
+    "github": "https://github.com/drewwoods55/HOPEhacks",
+    "link": "http://theordermob.com/"
 }
 
 
