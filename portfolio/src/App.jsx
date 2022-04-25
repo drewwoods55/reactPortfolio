@@ -1,11 +1,12 @@
 import Topbar from "./components/Topbar/Topbar"
 import Intro from "./components/Intro/Intro"
-import Testimonials from "./components/Testimonials/Testimonials"
+import Portfolio from "./components/Portfolio/Portfolio"
 import About from "./components/About/About"
 import Contact from "./components/Contact/Contact"
 import "./app.scss"
 import { useState } from "react";
 import Menu from "./components/Menu/Menu";
+import Data from "./projects.json"
 
 
 function App() {
@@ -17,8 +18,7 @@ function App() {
       <div className="section">
         <Intro />
         <About />
-        {/* <Portfolio /> */}
-        <Testimonials />
+        <Portfolio Data = {Data}/>
         <Contact />
       </div>
     </div>

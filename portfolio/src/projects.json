@@ -8,7 +8,7 @@
     "link": "https://drewwoods55.github.io/cityFinder/"
 },
 {
-    "id": 1,
+    "id": 2,
     "name": "CitiFinder",
     "skills": "Javascript",
     "image": "./assets/portfolio1.png",
@@ -18,7 +18,7 @@
 },
 
 {
-    "id": 1,
+    "id": 3,
     "name": "CitiFinder",
     "skills": "Javascript",
     "image": "./assets/portfolio1.png",
@@ -28,7 +28,7 @@
 },
 
 {
-    "id": 1,
+    "id": 4,
     "name": "CitiFinder",
     "skills": "Javascript",
     "image": "./assets/portfolio1.png",
@@ -38,7 +38,7 @@
 },
 
 {
-    "id": 1,
+    "id": 5,
     "name": "CitiFinder",
     "skills": "Javascript",
     "image": "./assets/portfolio1.png",
@@ -46,6 +46,15 @@
     "github": "https://github.com/drewwoods55/cityFinder",
     "link": "https://drewwoods55.github.io/cityFinder/"
 },
+{
+    "id": 6,
+    "name": "CitiFinder",
+    "skills": "Javascript",
+    "image": "./assets/portfolio1.png",
+    "keypoint": "Event Handlers",
+    "github": "https://github.com/drewwoods55/cityFinder",
+    "link": "https://drewwoods55.github.io/cityFinder/"
+}
 
 
 
