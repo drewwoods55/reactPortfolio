@@ -1,5 +1,6 @@
 import React from "react";
 import "./about.scss";
+// import Resume from './assets/AndrewWoodsResume.pdf'
 
 const About = () => {
   return (
@@ -8,7 +9,7 @@ const About = () => {
       <div className="a-left">
         <div className="a-card bg"></div>
         <div className="a-card">
-          <a href="Resume.pdf" download="Andrew Woods Resume.pdf">
+          <a href="./assets/AndrewWoodsResume.pdf" download>
           <img  src="./assets/resume_pic.png" alt="" className="a-img" />
           </a>
         </div>
@@ -16,20 +17,21 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">Languages</h1>
         <p className="a-sub">
-          From static to full-stack:
-          <br />
+          {/* From static to full-stack: */}
+          {/* <br /> */}
 
           <ul>
             <li>HTML</li>
             <li>CSS</li>
+            <li>SCSS</li>
             <li>JavaScript</li>
             <li>Node.Js</li>
             <li>React.JS</li>
             <li>MySQL</li>
-            <li>Current learning JAVA</li>
+            
           </ul>
           <br/>
-          Learning is the Goal. <br/> && <br/> Growth is the Success.
+          Never stop learning <br/> && <br/> Learn to never stop 
 
           
          

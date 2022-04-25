@@ -24,8 +24,8 @@ const Card = ({ Data }) => {
               </div>
 
               <div className="card-footer">
-                <h1 className="card-footer-heading">Skills:</h1>
-                <p className="card-skills">{project.skills}</p>
+                {/* <h1 className="card-footer-heading">Skills:</h1>
+                <p className="card-skills">{project.skills}</p> */}
                 <div className="button-group">
                   <button className="github-button">
                     <a
