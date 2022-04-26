@@ -3,6 +3,9 @@
 .intro {
     background-color: $mainColor;
     display: flex;
+    font-size: 30px;
+    font-weight: 300;
+    
 
     @include mobile {
         flex-direction: column;
@@ -36,6 +39,7 @@
 
                 @include mobile {
                     height: 50%;
+                    object-fit:fill;
                 }
             }
         }
@@ -69,12 +73,14 @@
             }
 
             h2 {
-                font-size: 35px;
+                font-size: 30px;
+                font-weight: 300;
                 color:#dcdcdc;
             }
 
             h3 {
-                font-size: 20px;
+                font-size: 30px;
+                font-weight: 300;
                 width: 85%;
                 color:#dcdcdc;
 

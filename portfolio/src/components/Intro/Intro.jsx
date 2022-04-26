@@ -14,12 +14,12 @@ function Intro() {
             </div>
             <div className="right">
                 <div className="wrapper">
-                    <h2>Hi There, My Name is</h2>
+                    <h2>Hi, My Name is</h2>
                     <h1>Andrew Woods</h1>
                     <h3>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi voluptatibus accusamus unde at delectus odio, dolore eligendi nulla blanditiis pariatur ratione ea ex sed, hic reiciendis nihil non facilis modi!
+                        My name is Andrew but all my friends call me Drew so feel free. I am currently a junior developer with experience launching full stack web applications. I'm driven to continue my learning journey by remaining curiors. A kid from humble beginnings making dreams come true, one line of code at a time.  
                     </h3>
-                    <a href="#a">
+                    <a href="#about">
                         <img src="./assets/down.png" alt="" />
                     </a>
                 </div>

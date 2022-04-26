@@ -38,7 +38,7 @@ const About = () => {
         </p>
         
         <p className="a-desc">
-          (Click on my Resume to Download)
+          (Click on Resume to Download)
         </p>
         
       </div>
