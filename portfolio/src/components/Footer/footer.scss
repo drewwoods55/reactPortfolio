@@ -1,0 +1,29 @@
+.footer-container{
+    font-size: 1rem;
+    padding: 4rem 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    grid-column-gap: 1rem;
+    color: #fff;
+    background-color: #3A7563;
+  }
+  .socials-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    grid-gap: 1rem;
+  }
+  .socials-icons {
+    background: #E6D3A7;
+    padding: 1rem;
+    border-radius: 50%;
+    color: white;
+  }
+  .footer-icon{
+    /* font-size: 1.5rem; */
+    justify-items: center;
+  }
+  #copyright {
+    margin-top: 2rem;
+  }

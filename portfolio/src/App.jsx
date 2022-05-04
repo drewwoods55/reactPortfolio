@@ -3,6 +3,7 @@ import Intro from "./components/Intro/Intro"
 import Portfolio from "./components/Portfolio/Portfolio"
 import About from "./components/About/About"
 import Contact from "./components/Contact/Contact"
+// import Footer from "./components/Footer/Footer"
 import "./app.scss"
 import { useState } from "react";
 import Menu from "./components/Menu/Menu";
@@ -21,6 +22,7 @@ function App() {
         <Portfolio Data = {Data}/>
         <Contact />
       </div>
+      {/* <Footer /> */}
     </div>
   );
 }
